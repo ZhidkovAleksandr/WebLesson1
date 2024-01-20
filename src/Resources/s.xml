@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<users>
+    <user>
+        <name>John</name>
+        <age>33</age>
+        <role>manager</role>
+    </user>
+    <user>
+        <name>Joe</name>
+        <age>99</age>
+        <role>president</role>
+    </user>
+    <user>
+        <name>Victor</name>
+        <age>100</age>
+        <role>director</role>
+    </user>
+</users>
